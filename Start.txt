@@ -1,0 +1,6 @@
+mongod
+
+dans "main" dir : nodemon ou node app
+
+dans angu*/src : le client : "path to ng"ng serve 
+M:\ng\MeanAuthApp\node_modules\.bin\NG serve
